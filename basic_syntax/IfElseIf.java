@@ -1,11 +1,11 @@
 /* @brief it compares the length of the name with the number of characters the user thought.
- * @details Scanner is instantiated to read the user's input and We use length() method.
+ * @details Scanner is instantiated to read the user's input and it use length function.
  * @file conditionals.java
  * @date 16/04/20214
  * @version 1.0*/
 
 import java.util.Scanner;
-public class IfElse {
+public class IfElseIf {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
