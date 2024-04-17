@@ -5,7 +5,7 @@
  * @version 1.0*/
 
 import java.util.Scanner;
-public class Conditionals {
+public class IfElse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
